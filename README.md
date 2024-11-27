@@ -2,6 +2,11 @@
 
 This is a **Django-based Blog Project** where users can view, search, and filter blog posts. Admins can manage blog content, including adding blog posts with images, categories, and more.
 
+## Live Demo
+
+You can check out the live version of this project here:  
+[**Live Blog Project**](https://a-code.harpreetsinghbansal.com/)
+
 ## Features
 
 - **Image Uploads**: Admins can upload images for each blog post and the homepage slider.
