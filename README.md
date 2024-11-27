@@ -76,13 +76,6 @@ These images show the main features of the blog, including blog posts, categorie
     ```
     Access the project at `http://127.0.0.1:8000/`.
 
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## Contact Information
 
 For any queries, suggestions, or issues, feel free to reach out to us:
