@@ -1,0 +1,41 @@
+{% extends 'base/base.html' %}
+
+
+
+{% block body %}
+
+
+<div class="container my-4" style="
+display: flex;
+justify-content: center;
+">
+
+  <img src="/media/{{blogpost.img}}" alt="" class="img-fluid ">
+
+</div>
+<div class="container my-4">
+  <strong class="d-inline-block mb-2 text-secondary text-danger">{{blogpost.category_name}}</strong>
+
+  <h2 class="blog-post-title">{{blogpost.title}} </h2>
+
+  <div class="my-4">
+    <span>
+      <img src="/media/{{blogpost.author.author_img}}" alt="" style="height: 30px; width: 30px; border-radius: 50%;">
+      <strong>by</strong>
+      <strong>{{blogpost.author.author_name}} <i class="icon ion-clock"></i> {{blogpost.created_at}}</strong>
+    </span>
+
+  </div>
+</div>
+
+
+<div class="container my-4">
+
+
+  <p>{{blogpost.decription|safe}}</p>
+</div>
+
+
+
+
+{% endblock %}
