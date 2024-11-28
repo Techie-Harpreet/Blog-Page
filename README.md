@@ -86,5 +86,5 @@ These images show the main features of the blog, including blog posts, categorie
 For any queries, suggestions, or issues, feel free to reach out to us:
 
 - **Email**: contact@harpreetsinghbansal.com
-- **GitHub Repository**: [Your GitHub Repo Link](https://github.com/Techie-Harpreet/Blog-Page)
+- **GitHub Repository**: (https://github.com/Techie-Harpreet/Blog-Page)
 
